@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm Suzukii, one Brazilian programmer who joined Github to expand his knowledge 🚀🚀
+I'm Suzukii, one Brazilian programmer who joined Github to expand his knowledge.
 
-Contact me on: [Twitter](https://twitter.com/Iagomoon_Real?s=09)
+Have a nice day! 💜
 
-![](https://github-readme-stats.vercel.app/api?username=devsuzukii)
+My Github stats: ![](https://github-readme-stats.vercel.app/api?username=devsuzukii)
